@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
-# Connects to server 34.138.32.248 with key in ~/.ssh/school
-
-ssh -i ~/.ssh/school ubuntu@34.138.32.248
+# Connecting to a server through a private key
+ssh -i ~/.ssh/holberton ubuntu@35.231.33.237
